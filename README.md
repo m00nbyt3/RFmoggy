@@ -1,4 +1,4 @@
-NodeMCU ESP8266/ESP32 wifi version of RfCat RfKitten using inexpensive CC1101
+NodeMCU ESP8266/ESP32/EvilCrowRF wifi version of RfCat RfKitten using inexpensive CC1101
 
 The code is not memory efficient, but it runs fine (didn't pass any variables e.g. String by reference, etc.)
 
